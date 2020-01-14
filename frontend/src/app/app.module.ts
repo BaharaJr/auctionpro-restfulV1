@@ -7,6 +7,7 @@ import { CategoriesComponent } from './comps/categories/categories.component';
 import { InfoComponent } from './comps/info/info.component';
 import { NavComponent } from './comps/nav/nav.component';
 import { FeedComponent } from './comps/feed/feed.component';
+import { ProductsComponent } from './comps/products/products.component';
 
 @NgModule({
   declarations: [
@@ -16,6 +17,7 @@ import { FeedComponent } from './comps/feed/feed.component';
     InfoComponent,
     NavComponent,
     FeedComponent,
+    ProductsComponent,
   ],
   imports: [BrowserModule],
   providers: [],
