@@ -1,0 +1,9 @@
+.cats-div{
+display: block;
+margin: 20px 0 0 30px;
+padding-right: 80px;
+}
+
+.feed{
+display: flex;
+}
