@@ -1,13 +1,21 @@
-.cats-div{
-display: flex;
-flex-direction: column;
-justify-content: space-around;
-align-items: stretch;
-margin: 20px 0 0 30px;
-padding-right: 80px;
-
+.cats-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: stretch;
+  margin: 20px 0 0 30px;
+  padding-right: 80px;
 }
 
-.feed{
-display: flex;
+.feed {
+  display: flex;
+}
+
+.footer {
+  display: flex;
+  margin-top: 40rem;
+}
+
+.combos {
+  margin-top: 5rem;
 }
